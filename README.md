@@ -34,7 +34,7 @@ Search  all regions in France for family name ,adresses,phone numbers.
 12. Search german's city specified by user for family name ,adresses,phone numbers.
  Search all cities in Germany for family name ,adresses,phone numbers. 
  
-13. Search social relations with Lullar() if email is provided
+13. Search social relations with Lullar() if email is provided or if mails are founds or if -gm (guessmail) is active.
 (Ask Instagram,Twitter,Youtube,WeChat,GooglePlus,Linkedin,Myspace,Flickr,Foursquare,PhotoBucket,Picturetrail,Wayn,Dek-d,Pinterest,Badoo,Blogger,Tumblr)
 
 14. Generate all possible combinations of mails adresses then check if they exist . If they exist , will ask Lullar() .
@@ -97,7 +97,7 @@ Search  all regions in France for family name ,adresses,phone numbers.
 		       
 		       -s 'NAME', Name to Search
 		       
-		       -o --output output to Neo4j or Cvs.
+		       -o --output output to Neo4j or Csv.
 		       
 		       -f FAMILY NAME, --family FAMILY NAME
 		       
@@ -136,6 +136,13 @@ Search  all regions in France for family name ,adresses,phone numbers.
 ##Install
 
 - pip3 install copernicus
+
+Note that Darksearch, Skype, And Facebook module are using Selenium
+and needs geckodriver 0.16 wich is available only for 64 bits architecture.
+geckodriver 0.16 for linux 64 bits is download automatically
+at the first launch ( or if ./copernicus is not found) but Firefox 53 must be installed .
+
+Copernicus.mtz can be used if you plan to import csv output to maltego .
 
 ##Usage
 
