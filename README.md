@@ -161,6 +161,9 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 	   
 ###To do list:
 - Rewrite all this shit
+- Append csv output to a previous csv file.
+- Use power from other existing osint tool
+- Allow searching for a real person and an alias at the same time.
 - ~~Add Install setup~~
 - ~~Add another way to check mails related to microsoft.~~
 - ~~Add graphml , mtgx export format.~~ (replaced by csv export)
