@@ -69,7 +69,7 @@ Search  all regions in France for family name ,adresses,phone numbers.
 		- usage: copernicus.py [-h] [-e Engine] [-l LANG] [-c2e]
 		                     [-c2w ] [-f2e] [-n2w] [-sm ] [-sk LOGIN-PASSWORD] 
 		                     [-sf LOGIN-PASSWORD] [-sa 'ALIAS'] [-s 'NAME'] 
-		                     [-o output] [-f FAMILY NAME] [-a OPTION] [-c CITY] 
+		                     [-o output] [-f FAMILY NAME] [-a OPTION] [-tocsv FILENAME] [-c CITY] 
 		                     [-i ] [io] [-m EMAIL] [-gm OPTION] [-fa TRUE-FALSE] 
 		                     [-LS] [-t TIME]
 		- optional arguments:
@@ -79,6 +79,8 @@ Search  all regions in France for family name ,adresses,phone numbers.
 		       -e Engine, Engine Use specific search engine: -e yahoo,bing
 		       
 		       -l LANG, Country : en,zh-CN,es,ar,pt,ja,ru,fr,de...
+		       
+		       -tocsv Append result to existing file
 		       
 		       -c2e  Only use the city arg with search engine
 		       
@@ -161,9 +163,9 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 	   
 ###To do list:
 - Rewrite all this shit
-- Append csv output to a previous csv file.
+- ~~Append csv output to a previous csv file.~~
 - Use power from other existing osint tool
-- Allow searching for a real person and an alias at the same time.
+- ~~Allow searching for a real person and an alias at the same time.~~
 - ~~Add Install setup~~
 - ~~Add another way to check mails related to microsoft.~~
 - ~~Add graphml , mtgx export format.~~ (replaced by csv export)
