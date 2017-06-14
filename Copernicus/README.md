@@ -166,6 +166,7 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 	   
 ###To do list:
 - Rewrite all this shit
+- find a workaround if google return "Service Unvailable"
 - ~~Append csv output to a previous csv file.~~
 - Use power from other existing osint tool
 - fix Linkedin and Google+ in socialsearch lullar()
