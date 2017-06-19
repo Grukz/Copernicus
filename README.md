@@ -166,10 +166,23 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 	   
 ###To do list:
 - Rewrite all this shit
+- Let user choose their own resting time between each request .
 - find a workaround if google return "Service Unvailable"
+- Fix Linkedin and Google+ in socialsearch lullar()
+- Rename lullar() to social()
+- Add haveibeenpwned.com engine
+- Add github engine
+- Add pastebin engine
+- Add justpaste.it engine
+- Add quickleak.se engine
+- Add ghostbin.com engine
+- Add slexy.org engine
+- Add NameChk.com engine
+- get metadata from pictures
+- Add a lot of sites to improve social()
+- Embed or use some part of https://github.com/eth0izzle/the-endorser
+-  Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
 - ~~Append csv output to a previous csv file.~~
-- Use power from other existing osint tool
-- fix Linkedin and Google+ in socialsearch lullar()
 - ~~Allow searching for a real person and an alias at the same time.~~
 - ~~Add Install setup~~
 - ~~Add another way to check mails related to microsoft.~~
