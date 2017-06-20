@@ -1,7 +1,27 @@
 ##Copernicus
  
 
-Osint tool to get results from Google, Bing, Yahoo,British Telecom,Pages Blanches,Paginas Blancas,SpravKaru,Das Telefon Bush,YellowPages,Instagram,Twitter,Youtube,WeChat,GooglePlus,Linkedin,Myspace,Flickr,Foursquare,PhotoBucket,Picturetrail,Wayn,Dek-d,Pinterest,Badoo,Blogger,Tumblr,Skype,Facebook,Tineye,Irc logs,Darksearch about peoples.
+Osint tool to get results from Google, Bing, Yahoo,BritishTelecom,PagesBlanches,PaginasBlancas,SpravKaru,
+DasTelefonBush,YellowPages,Instagram,Twitter,Youtube,WeChat,GooglePlus,Linkedin,Myspace,
+Flickr,Foursquare,PhotoBucket,Picturetrail,Wayn,Dek-d,Pinterest,Badoo,Blogger,Tumblr,Skype,Facebook,
+Tineye,Irc logs,Darksearch,Break, ColourLover, Raptr, Bodyspace, freesound, Mylot, Mixcloud, Porn, 
+Goodreads, Singlemuslim, Playlist, Thegardian, Steam, Ustream, Geekgrade, Picturetrail, Myfitnesspal, 
+Myspace, Lastfm, Ifttt, Rateyourmusic, Cheezburger, Dek-d, Rapid7, AngelList, Okcupid, Bugcrowd, Meetzur, 
+Foursquare, Delicious, Ask, Hubpages, LiveJasmine, Interpals, Mixlr, Codeplex, Storycorp, 
+ivejournal, Eporner, Audio Boom, Wishlist, Foodspotting, Sporcle, Xboxtag, Mate1, Vimeo, 
+Slideshare, Pornhub, Funny or Die, Wanelo, Deviantart, Pinterest, Dailymotion, Wayn, Fanpop,
+Soup, Pinkbike, Photoblog, Blip, Smiteguru, InternetArchive, Snooth, Smule, Newsvine, 
+Stupidcancer, Twitter, Tripit, CruiseMate, Wikipedia, Pastebin, Flickr, Blogspot, librarything, 
+Scratch, Iampregnant, ProjectAres, Youtube, Xvideo, Linkedin, Buzzfeed, Badoo, Myspace, 
+Producthunt, AdultfirendFinder, Etsy, Technet.microsoft, Cafemom, Soundcloud, Vidme, Anobii, 
+Vine, Tumblr, Setlist, Slashdot, Psn, Pof, Vk, Weedlife, FriendfindX, Blackplanet, Wechat, 
+MarketingLand, Diigo, Trip, About.me, Xhamster, Googleplus, Fotolog, Untappd, Medium, Diy, 
+Klout, Imageshack, Voat, Plurk, Cardomain, Seoclerks, Xanga, Github, Vampirefreaks, Instagram, 
+Klear, Wordpress, Wattpad, Mybuilder, Twitch, Netvibe, Author stream, Rottentomatoes, Reddit, 
+Cashme, Kongregate, Atlassian, Redtube, Imgur, Viddler, Lanyrd, Periscope, Shopcade, Gravatar, 
+Tf2items, Massroot, Eightbitme, Fiverr, Moddb, Matchdoctor, Photobucket, Videolike, Muckrack,
+Smugmug, Speakerdeck, Voices, Tripadisor, Flipboard, Bitbucket, Instructables, Blogmarks
+and more to come. about peoples.
 
 1. No Smeging Api key required.
 
@@ -34,10 +54,9 @@ Search  all regions in France for family name ,adresses,phone numbers.
 12. Search german's city specified by user for family name ,adresses,phone numbers.
  Search all cities in Germany for family name ,adresses,phone numbers. 
  
-13. Search social relations with Lullar() if email is provided or if mails are founds or if -gm (guessmail) is active.
-(Ask Instagram,Twitter,Youtube,WeChat,GooglePlus,Linkedin,Myspace,Flickr,Foursquare,PhotoBucket,Picturetrail,Wayn,Dek-d,Pinterest,Badoo,Blogger,Tumblr)
+13. Search social network relations with our without email provided or found or guessed. (157 websites)
 
-14. Generate all possible combinations of mails adresses then check if they exist . If they exist , will ask Lullar() .
+14. Generate all possible combinations of mails adresses then check if they exist . If they exist , search for social network relations .
 
 15. Search in Skype Directory (can use results to guess emails)
  
@@ -78,7 +97,9 @@ Search  all regions in France for family name ,adresses,phone numbers.
 		
 		       -h, --help            show this help message and exit
 		       
-		       -e Engine, Engine Use specific search engine: -e yahoo,bing
+		       -e Engine, Engine Use specific search engine: 
+		       -e google,yahoo,bing,pagesblanches,social,britishtelecom,paginasblancas,
+		       spravkaru,yellowpages,telefonbuch,guessmail,skype,facebook,darksearch,irc,tineye
 		       
 		       -l LANG, Country : en,zh-CN,es,ar,pt,ja,ru,fr,de...
 		       
@@ -150,7 +171,7 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 
 ##Usage
 
-	example@ofuse:~$ ./copernicus.py -e google,yahoo,pagesblanches,lullar,skype,facebook 
+	example@ofuse:~$ ./copernicus.py -e google,yahoo,pagesblanches,social,skype,facebook 
 	-s "name+familyname" -f "Family name" 
 	-c paris 
 	-a lot,of,words,to,add,here,in,relation,with,the,people,"you are",searching 
@@ -166,20 +187,24 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 	   
 ###To do list:
 - Rewrite all this shit
+- Simplify cmd line interface/Create menu in cmd line
+- Create Gui interface
 - Let user choose their own resting time between each request .
-- find a workaround if google return "Service Unvailable"
+- Find a workaround if google return "Service Unvailable"
 - Fix Linkedin and Google+ in socialsearch lullar()
-- Rename lullar() to social()
-- Add haveibeenpwned.com engine
-- Add github engine
-- Add pastebin engine
-- Add justpaste.it engine
-- Add quickleak.se engine
-- Add ghostbin.com engine
-- Add slexy.org engine
+- ~~Rename lullar() to social()~~
+- ~~Add github to social()~~
+- ~~Add pastebin to social()~~
+- Add justpaste.it to social()
+- Add quickleak.se to social()
+- Add ghostbin.com to social()
+- Add slexy.org to social()
+- Add airbnb.com to social()
 - Add NameChk.com engine
-- get metadata from pictures
-- Add a lot of sites to improve social()
+- Add haveibeenpwned.com engine
+-  ~~Add onion search engine~~
+- Get metadata from pictures
+- ~~Add a lot of sites to improve social()~~
 - Embed or use some part of https://github.com/eth0izzle/the-endorser
 -  Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
 - ~~Append csv output to a previous csv file.~~
@@ -189,7 +214,6 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 - ~~Add graphml , mtgx export format.~~ (replaced by csv export)
 - ~~Add Irc Logs search.~~
 - ~~Add TinEye search engine to compare with images results from Skype's avatar, Facebook ,and the first ten pictures from google bing  and yahoo.~~
--  ~~Add onion search engine~~
 -   ~~Add whitepage engine for fr.~~
 -   ~~Add whitepage engine for uk.~~
 -   ~~Add whitepage engine for es.~~
