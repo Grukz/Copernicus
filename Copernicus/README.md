@@ -195,13 +195,9 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 - ~~Rename lullar() to social()~~
 - ~~Add github to social()~~
 - ~~Add pastebin to social()~~
-- Add justpaste.it to social()
-- Add quickleak.se to social()
-- Add ghostbin.com to social()
-- Add slexy.org to social()
+- ~~Add haveibeenpwned.com to social()~~
 - Add airbnb.com to social()
 - Add NameChk.com engine
-- Add haveibeenpwned.com engine
 -  ~~Add onion search engine~~
 - Get metadata from pictures
 - ~~Add a lot of sites to improve social()~~
