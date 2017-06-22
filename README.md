@@ -20,8 +20,11 @@ Klout, Imageshack, Voat, Plurk, Cardomain, Seoclerks, Xanga, Github, Vampirefrea
 Klear, Wordpress, Wattpad, Mybuilder, Twitch, Netvibe, Author stream, Rottentomatoes, Reddit, 
 Cashme, Kongregate, Atlassian, Redtube, Imgur, Viddler, Lanyrd, Periscope, Shopcade, Gravatar, 
 Tf2items, Massroot, Eightbitme, Fiverr, Moddb, Matchdoctor, Photobucket, Videolike, Muckrack,
-Smugmug, Speakerdeck, Voices, Tripadisor, Flipboard, Bitbucket, Instructables, Blogmarks
-and more to come. about peoples.
+Smugmug, Speakerdeck, Voices, Tripadisor, Flipboard, Bitbucket, Instructables, Blogmarks,
+Yelp,Ello,Abou.to,Stream.me,Getsatisfaction,Crokes,Codementor,500px,Houzz,Contently,
+Scribd,Venmo,Canva,Creativemarket,Bandcamp,Wikia,Reverbnation,Mig.me,Designspiration,
+Eyeem,Miiverse,Kano,Smashcast,Newgrounds,Younow,Postagon
+(and more to come) about peoples.
 
 1. No Smeging Api key required.
 
@@ -196,8 +199,7 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 - ~~Add github to social()~~
 - ~~Add pastebin to social()~~
 - ~~Add haveibeenpwned.com to social()~~
-- Add airbnb.com to social()
-- Add NameChk.com engine
+- ~~Add NameChk.com engine~~(merged in social())
 -  ~~Add onion search engine~~
 - Get metadata from pictures
 - ~~Add a lot of sites to improve social()~~
