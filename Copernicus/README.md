@@ -137,7 +137,7 @@ Search  all regions in France for family name ,adresses,phone numbers.
 		       
 		       -io , --imgonly Collect images and skip Google Bing and Yahoo search engine
 		       
-		       -m EMAIL,  will ask lullar.com about it
+		       -m EMAIL,  will search for social network relation  about it
 		       
 		        
 		       -t TIME, --timesleep Resting time before each requests ( random between 42 to x where x is your choice)
