@@ -76,6 +76,8 @@ Search  all regions in France for family name ,adresses,phone numbers.
 
 ^(Consider downloading [Linkification](https://addons.mozilla.org/fr/firefox/addon/linkification/)  for Firefox or [Clickable links](https://chrome.google.com/webstore/detail/clickable-links/mgamelhnfokapndfdodnmfiningckjia) for Chrome if you want to work directly in neo4j .)^
 
+![ ](https://img4.hostingpics.net/pics/679611Capturedcrande20170628043121.png  "Title")
+
 ![ ](http://img11.hostingpics.net/pics/139823resc.png  "search engine")
 
 
@@ -190,7 +192,7 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 	   
 ###To do list:
 - Rewrite all this shit
-- Simplify cmd line interface/Create menu in cmd line
+- ~~Simplify cmd line interface/Create menu in cmd line~~
 - Create Gui interface
 - Let user choose their own resting time between each request .
 - Find a workaround if google return "Service Unvailable"
