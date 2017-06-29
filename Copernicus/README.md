@@ -176,7 +176,13 @@ Copernicus.mtz can be used if you plan to import csv output to maltego .
 
 ##Usage
 
-	example@ofuse:~$ ./copernicus.py -e google,yahoo,pagesblanches,social,skype,facebook 
+You can use it without argument :
+
+	example@ofuse:~$ copernicus.py
+
+Or with arguments:
+
+	example@ofuse:~$ copernicus.py -e google,yahoo,pagesblanches,social,skype,facebook 
 	-s "name+familyname" -f "Family name" 
 	-c paris 
 	-a lot,of,words,to,add,here,in,relation,with,the,people,"you are",searching 
