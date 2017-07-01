@@ -57,7 +57,7 @@ Search  all regions in France for family name ,adresses,phone numbers.
 12. Search german's city specified by user for family name ,adresses,phone numbers.
  Search all cities in Germany for family name ,adresses,phone numbers. 
  
-13. Search social network relations with our without email provided or found or guessed. (187 websites)
+13. Search social network relations with or without email provided or found or guessed. (187 websites)
 
 14. Generate all possible combinations of mails adresses then check if they exist . If they exist , search for social network relations .
 
@@ -201,7 +201,7 @@ Or with arguments:
 - ~~Simplify cmd line interface/Create menu in cmd line~~
 - Create Gui interface
 - Let user choose their own resting time between each request .
-- Find a workaround if google return "Service Unvailable"
+- ~~Find a workaround if google return "Service Unvailable"~~
 - ~~Fix Linkedin and Google+ in socialsearch lullar()~~
 - ~~Rename lullar() to social()~~
 - ~~Add github to social()~~
