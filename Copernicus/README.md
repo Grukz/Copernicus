@@ -200,7 +200,7 @@ Or with arguments:
 - Rewrite all this shit
 - ~~Simplify cmd line interface/Create menu in cmd line~~
 - Create Gui interface
-- Let user choose their own resting time between each request .
+- ~~Let user choose their own resting time between each request .~~
 - ~~Find a workaround if google return "Service Unvailable"~~
 - ~~Fix Linkedin and Google+ in socialsearch lullar()~~
 - ~~Rename lullar() to social()~~
