@@ -200,6 +200,8 @@ Or with arguments:
 ###To do list:
 - Rewrite all this shit
 - Create Gui interface
+- add http://www.emailbiz.info/ to guessmail()
+- add www.yippy.com to deepdarkweb()
 - Embed or use some part of https://github.com/eth0izzle/the-endorser
 - Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
 - Improve pictures comparison
