@@ -65,7 +65,8 @@ Search  all regions in France for family name ,adresses,phone numbers.
  
 16. Search in Facebook Directory  (can use results to guess emails)
 
-17. Search in Deepweb and Onion search engine (Still testing)
+17. Search in Deepweb and Onion search engine 
+Results from darksearch.com , onion.link , ahmia.fi (Still testing)
 
 18. Search in Irc logs from various servers .
         (https://botbot.me/ http://tunes.org/ http://irc.slitaz.org/ http://logs.glob.uno/ https://krijnhoetmer.nl/irc-logs/ https://indieweb.org/irc/ http://eavesdrop.openstack.org/irclogs/ http://irclog.whitequark.org/ http://chat.alfresco.com/ http://ircbrowse.net http://www.wcnews.com/logs/ http://logs.nslu2-linux.org/livelogs http://irclogs.shortcircuit.net.au/ http://irclogs.ceph.widodh.nl/ https://fluidtypo3.org/community/ https://www.tryton.org/~irclog/ http://rbach.priv.at/Microformats/IRC/ https://log.bezut.info/ http://sbnc.khobbits.co.uk/log/logs/ https://irclogs.baserock.org/ http://carrier.6irc.net/metachan/ https://irclogs.ubuntu.com/ https://www.spi-inc.org/meetings/logs/ https://www.olimex.com/irc? https://irc.cakephp.org/ http://freecadlog.archivist.info/ https://irclogs.jackgrigg.com/ http://irc.koha-community.org/koha/ http://www.merproject.org/logs/ http://www.alwaysinnovating.com/irclog/ https://ghostscript.com/irclogs/ https://badcheese.com/~steve/atlogs/ http://c4evaspeaks.com https://irclog.perlgeek.de/ http://old.geotools.org http://riesvantwisk.com/home/irc-logs/ http://blockstack.slackarchive.io/ http://chat-logs.dcpython.org/ https://irclogs.deepin.io/deepin http://logs.collectionspace.org/ http://irc.minetest.ru/ https://irc.dokuwiki.org/ https://silverstripe.logged.nz/ http://tech.lds.org/irc/ http://globalqss.com/idempiere/irclog/ http://dig.csail.mit.edu/irc/dig/ http://www.webplatform.org/talk/chatlogs/ http://ilbot2.kohaaloha.com/koha/)
