@@ -3,22 +3,22 @@
 
 Osint tool to get results from Google, Bing, Yahoo,BritishTelecom,PagesBlanches,PaginasBlancas,SpravKaru,
 DasTelefonBush,YellowPages,Instagram,Twitter,Youtube,WeChat,GooglePlus,Linkedin,Myspace,
-Flickr,Foursquare,PhotoBucket,Picturetrail,Wayn,Dek-d,Pinterest,Badoo,Blogger,Tumblr,Skype,Facebook,
+Flickr,Foursquare,PhotoBucket,Picturetrail,Wayn,Dek-d,Pinterest,Badoo,Torchtorsearch,Blogger,Tumblr,Skype,Facebook,
 Tineye,Irc logs,Darksearch,Break, ColourLover, Raptr, Bodyspace, freesound, Mylot, Mixcloud, Porn, 
 Goodreads, Singlemuslim, Playlist, Thegardian, Steam, Ustream, Geekgrade, Picturetrail, Myfitnesspal, 
 Myspace, Lastfm, Ifttt, Rateyourmusic, Cheezburger, Dek-d, Rapid7, AngelList, Okcupid, Bugcrowd, Meetzur, 
 Foursquare, Delicious, Ask, Hubpages, LiveJasmine, Interpals, Mixlr, Codeplex, Storycorp, 
-ivejournal, Eporner, Audio Boom, Wishlist, Foodspotting, Sporcle, Xboxtag, Mate1, Vimeo, 
-Slideshare, Pornhub, Funny or Die, Wanelo, Deviantart, Pinterest, Dailymotion, Wayn, Fanpop,
+ivejournal, Eporner,Ahmia, Audio Boom, Wishlist, Foodspotting, Sporcle, Xboxtag, Mate1, Vimeo, 
+Slideshare, Pornhub, Funny or Die, Wanelo, Onion.link Deviantart, Pinterest, Dailymotion, Wayn, Fanpop,
 Soup, Pinkbike, Photoblog, Blip, Smiteguru, InternetArchive, Snooth, Smule, Newsvine, 
 Stupidcancer, Twitter, Tripit, CruiseMate, Wikipedia, Pastebin, Flickr, Blogspot, librarything, 
 Scratch, Iampregnant, ProjectAres, Youtube, Xvideo, Linkedin, Buzzfeed, Badoo, Myspace, 
-Producthunt, AdultfirendFinder, Etsy, Technet.microsoft, Cafemom, Soundcloud, Vidme, Anobii, 
+Producthunt, AdultfirendFinder, Etsy, Darksearch,  Technet.microsoft, Cafemom, Soundcloud, Vidme, Anobii, 
 Vine, Tumblr, Setlist, Slashdot, Psn, Pof, Vk, Weedlife, FriendfindX, Blackplanet, Wechat, 
 MarketingLand, Diigo, Trip, About.me, Xhamster, Googleplus, Fotolog, Untappd, Medium, Diy, 
 Klout, Imageshack, Voat, Plurk, Cardomain, Seoclerks, Xanga, Github, Vampirefreaks, Instagram, 
 Klear, Wordpress, Wattpad, Mybuilder, Twitch, Netvibe, Author stream, Rottentomatoes, Reddit, 
-Cashme, Kongregate, Atlassian, Redtube, Imgur, Viddler, Lanyrd, Periscope, Shopcade, Gravatar, 
+Cashme, Kongregate,Onionsearchengine, Atlassian, Redtube, Imgur, Viddler, Lanyrd, Periscope, Shopcade, Gravatar, 
 Tf2items, Massroot, Eightbitme, Fiverr, Moddb, Matchdoctor, Photobucket, Videolike, Muckrack,
 Smugmug, Speakerdeck, Voices, Tripadisor, Flipboard, Bitbucket, Instructables, Blogmarks,
 Yelp,Ello,Abou.to,Stream.me,Getsatisfaction,Crokes,Codementor,500px,Houzz,Contently,
@@ -59,14 +59,14 @@ Search  all regions in France for family name ,adresses,phone numbers.
  
 13. Search social network relations with or without email provided or found or guessed. (187 websites)
 
-14. Generate all possible combinations of mails adresses then check if they exist . If they exist , search for social network relations .
+14. Search emailbiz.info first and generate all possible combinations of mails adresses from first and last name then check if they exist . If they exist , search for social network relations .
 
 15. Search in Skype Directory (can use results to guess emails)
  
 16. Search in Facebook Directory  (can use results to guess emails)
 
 17. Search in Deepweb and Onion search engine 
-Results from darksearch.com , onion.link , ahmia.fi ,onionsearchengine.com , torchtorsearch.com(Still testing)
+Results from darksearch.com , onion.link , ahmia.fi ,onionsearchengine.com , torchtorsearch.com
 
 18. Search in Irc logs from various servers .
         (https://botbot.me/ http://tunes.org/ http://irc.slitaz.org/ http://logs.glob.uno/ https://krijnhoetmer.nl/irc-logs/ https://indieweb.org/irc/ http://eavesdrop.openstack.org/irclogs/ http://irclog.whitequark.org/ http://chat.alfresco.com/ http://ircbrowse.net http://www.wcnews.com/logs/ http://logs.nslu2-linux.org/livelogs http://irclogs.shortcircuit.net.au/ http://irclogs.ceph.widodh.nl/ https://fluidtypo3.org/community/ https://www.tryton.org/~irclog/ http://rbach.priv.at/Microformats/IRC/ https://log.bezut.info/ http://sbnc.khobbits.co.uk/log/logs/ https://irclogs.baserock.org/ http://carrier.6irc.net/metachan/ https://irclogs.ubuntu.com/ https://www.spi-inc.org/meetings/logs/ https://www.olimex.com/irc? https://irc.cakephp.org/ http://freecadlog.archivist.info/ https://irclogs.jackgrigg.com/ http://irc.koha-community.org/koha/ http://www.merproject.org/logs/ http://www.alwaysinnovating.com/irclog/ https://ghostscript.com/irclogs/ https://badcheese.com/~steve/atlogs/ http://c4evaspeaks.com https://irclog.perlgeek.de/ http://old.geotools.org http://riesvantwisk.com/home/irc-logs/ http://blockstack.slackarchive.io/ http://chat-logs.dcpython.org/ https://irclogs.deepin.io/deepin http://logs.collectionspace.org/ http://irc.minetest.ru/ https://irc.dokuwiki.org/ https://silverstripe.logged.nz/ http://tech.lds.org/irc/ http://globalqss.com/idempiere/irclog/ http://dig.csail.mit.edu/irc/dig/ http://www.webplatform.org/talk/chatlogs/ http://ilbot2.kohaaloha.com/koha/)
@@ -200,13 +200,13 @@ Or with arguments:
 ###To do list:
 - Rewrite all this shit
 - Create Gui interface
-- add http://www.emailbiz.info/ to guessmail()
 - add www.yippy.com to deepdarkweb()
 - Embed or use some part of https://github.com/eth0izzle/the-endorser
 - Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
 - Improve pictures comparison
 - Get metadata from pictures
-- replace Darksearch.com and add more onion search engine(in progress)
+- ~~add http://www.emailbiz.info/ to guessmail()~~
+- ~~replace Darksearch.com and add more onion search engine~~
 - ~~Simplify cmd line interface/Create menu in cmd line~~
 - ~~Let user choose their own resting time between each request .~~
 - ~~Find a workaround if google return "Service Unvailable"~~
