@@ -200,8 +200,7 @@ Or with arguments:
 ###To do list:
 - Rewrite all this shit
 - Create Gui interface
-- add https://pipl.com/ to social()
-- add https://socialcatfish.com to social() maybe..
+- add other ppl search engine to social()
 - Embed or use some part of https://github.com/eth0izzle/the-endorser
 - Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
 - Improve pictures comparison
