@@ -7,7 +7,7 @@ Flickr,Foursquare,PhotoBucket,Picturetrail,Wayn,Dek-d,Pinterest,Badoo,Torchtorse
 Tineye,Irc logs,Darksearch,Break, ColourLover, Raptr, Bodyspace, freesound, Mylot, Mixcloud, Porn, 
 Goodreads, Singlemuslim, Playlist, Thegardian, Steam, Ustream, Geekgrade, Picturetrail, Myfitnesspal, 
 Myspace, Lastfm, Ifttt, Rateyourmusic, Cheezburger, Dek-d, Rapid7, AngelList, Okcupid, Bugcrowd, Meetzur, 
-Foursquare, Delicious, Ask, Hubpages, LiveJasmine, Interpals, Mixlr, Codeplex, Storycorp, 
+Foursquare, Delicious, Ask, Hubpages,Peekyou  LiveJasmine, Interpals, Mixlr, Codeplex, Storycorp, 
 ivejournal, Eporner,Ahmia, Audio Boom, Wishlist, Foodspotting, Sporcle, Xboxtag, Mate1, Vimeo, 
 Slideshare, Pornhub, Funny or Die, Wanelo, Onion.link Deviantart, Pinterest, Dailymotion, Wayn, Fanpop,
 Soup, Pinkbike, Photoblog, Blip, Smiteguru,yippy, InternetArchive, Snooth, Smule, Newsvine, 
@@ -66,7 +66,7 @@ Search  all regions in France for family name ,adresses,phone numbers.
 16. Search in Facebook Directory  (can use results to guess emails)
 
 17. Search in Deepweb and Onion search engine 
-Results from darksearch.com , onion.link , yippy.com ,ahmia.fi ,onionsearchengine.com , torchtorsearch.com
+Results from darksearch.com ,peekyou.com, onion.link , yippy.com ,ahmia.fi ,onionsearchengine.com , torchtorsearch.com
 
 18. Search in Irc logs from various servers .
         (https://botbot.me/ http://tunes.org/ http://irc.slitaz.org/ http://logs.glob.uno/ https://krijnhoetmer.nl/irc-logs/ https://indieweb.org/irc/ http://eavesdrop.openstack.org/irclogs/ http://irclog.whitequark.org/ http://chat.alfresco.com/ http://ircbrowse.net http://www.wcnews.com/logs/ http://logs.nslu2-linux.org/livelogs http://irclogs.shortcircuit.net.au/ http://irclogs.ceph.widodh.nl/ https://fluidtypo3.org/community/ https://www.tryton.org/~irclog/ http://rbach.priv.at/Microformats/IRC/ https://log.bezut.info/ http://sbnc.khobbits.co.uk/log/logs/ https://irclogs.baserock.org/ http://carrier.6irc.net/metachan/ https://irclogs.ubuntu.com/ https://www.spi-inc.org/meetings/logs/ https://www.olimex.com/irc? https://irc.cakephp.org/ http://freecadlog.archivist.info/ https://irclogs.jackgrigg.com/ http://irc.koha-community.org/koha/ http://www.merproject.org/logs/ http://www.alwaysinnovating.com/irclog/ https://ghostscript.com/irclogs/ https://badcheese.com/~steve/atlogs/ http://c4evaspeaks.com https://irclog.perlgeek.de/ http://old.geotools.org http://riesvantwisk.com/home/irc-logs/ http://blockstack.slackarchive.io/ http://chat-logs.dcpython.org/ https://irclogs.deepin.io/deepin http://logs.collectionspace.org/ http://irc.minetest.ru/ https://irc.dokuwiki.org/ https://silverstripe.logged.nz/ http://tech.lds.org/irc/ http://globalqss.com/idempiere/irclog/ http://dig.csail.mit.edu/irc/dig/ http://www.webplatform.org/talk/chatlogs/ http://ilbot2.kohaaloha.com/koha/)
@@ -168,7 +168,7 @@ Results from darksearch.com , onion.link , yippy.com ,ahmia.fi ,onionsearchengin
 
 - pip3 install copernicus
 
-Note that Darksearch, Skype, And Facebook module are using Selenium
+Note that Darksearch, Skype, Facebook and some other modules are using Selenium
 and needs geckodriver 0.16 wich is available only for 64 bits architecture.
 geckodriver 0.16 for linux 64 bits is download automatically
 at the first launch ( or if ./copernicus is not found) but Firefox 53 must be installed .
