@@ -12,7 +12,7 @@ ivejournal, Eporner,Ahmia, Audio Boom, Wishlist, Foodspotting, Sporcle, Xboxtag,
 Slideshare, Pornhub, Funny or Die, Wanelo, Onion.link Deviantart, Pinterest, Dailymotion, Wayn, Fanpop,
 Soup, Pinkbike, Photoblog, Blip, Smiteguru,yippy, InternetArchive, Snooth, Smule, Newsvine, 
 Stupidcancer, Twitter, Tripit, CruiseMate, Wikipedia, Pastebin, Flickr, Blogspot, librarything, 
-Scratch, Iampregnant, ProjectAres, Youtube, Xvideo, Linkedin, Buzzfeed, Badoo, Myspace, 
+Scratch, Iampregnant, ProjectAres, Knowem , Youtube, Xvideo, Linkedin, Buzzfeed, Badoo, Myspace, 
 Producthunt, AdultfirendFinder, Etsy, Darksearch,  Technet.microsoft, Cafemom, Soundcloud, Vidme, Anobii, 
 Vine, Tumblr, Setlist, Slashdot, Psn, Pof, Vk, Weedlife, FriendfindX, Blackplanet, Wechat, 
 MarketingLand, Diigo, Trip, About.me, Xhamster, Googleplus, Fotolog, Untappd, Medium, Diy, 
@@ -57,9 +57,10 @@ Search  all regions in France for family name ,adresses,phone numbers.
 12. Search german's city specified by user for family name ,adresses,phone numbers.
  Search all cities in Germany for family name ,adresses,phone numbers. 
  
-13. Search social network relations with or without email provided or found or guessed. (187 websites)
+13. Search social network relations with or without email provided or found or guessed. (189 websites)
 
-14. Search emailbiz.info first and generate all possible combinations of mails adresses from first and last name then check if they exist . If they exist , search for social network relations .
+14. (Search emailbiz.info if lastname provided or alias then ) Generate all possible combinations of mails adresses from first and last name or alias then check if they exist . If they exist , search for social network relations .
+ 
 
 15. Search in Skype Directory (can use results to guess emails)
  
@@ -115,7 +116,7 @@ Results from darksearch.com ,peekyou.com, onion.link , yippy.com ,ahmia.fi ,onio
 		       
 		       -c2w Only use the city arg with whitepages
 		       
-		       -f2e Search with full name not only Family name with skye or facebook 
+		       -f2e Search with full name not only Family name with skype or facebook 
 		       -n2w Dont only use Family name with whitepages use fullname instead
 		       
 		       -sm , --scrapmail get all emails from results
@@ -149,7 +150,7 @@ Results from darksearch.com ,peekyou.com, onion.link , yippy.com ,ahmia.fi ,onio
 		       	 Options:
 				 leet for l33tsp34k
 				  .-_ are chosen separators
-				 23,42 People often add birthdate/postalcode/fav at the end number try to add some
+				 23,42 People often add birthdate/postalcode/fav number at the end  try to add some
 				 badidea0000 to test all combinations from 0 to 9999 (even 2 digits is a bad idea). 
 				 Another bad idea is the 'all' option which try over 4500 emails providers.
 				 top10 option will use 10 most used provider 
