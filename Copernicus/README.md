@@ -1,30 +1,80 @@
 ##Copernicus
  
 
-Osint tool to get results from Google, Bing, Yahoo,BritishTelecom,PagesBlanches,PaginasBlancas,SpravKaru,
-DasTelefonBush,YellowPages,Instagram,Twitter,Youtube,WeChat,GooglePlus,Linkedin,Myspace,
-Flickr,Foursquare,PhotoBucket,Picturetrail,Wayn,Dek-d,Pinterest,Badoo,Torchtorsearch,Blogger,Tumblr,Skype,Facebook,
-Tineye,Irc logs,Darksearch,Break, ColourLover, Raptr, Bodyspace, freesound, Mylot, Mixcloud, Porn, 
-Goodreads, Singlemuslim, Playlist, Thegardian, Steam, Ustream, Geekgrade, Picturetrail, Myfitnesspal, 
-Myspace, Lastfm, Ifttt, Rateyourmusic, Cheezburger, Dek-d, Rapid7, AngelList, Okcupid, Bugcrowd, Meetzur, 
-Foursquare, Delicious, Ask, Hubpages,Peekyou  LiveJasmine, Interpals, Mixlr, Codeplex, Storycorp, 
-ivejournal, Eporner,Ahmia, Audio Boom, Wishlist, Foodspotting, Sporcle, Xboxtag, Mate1, Vimeo, 
-Slideshare, Pornhub, Funny or Die, Wanelo, Onion.link Deviantart, Pinterest, Dailymotion, Wayn, Fanpop,
-Soup, Pinkbike, Photoblog, Blip, Smiteguru,yippy, InternetArchive, Snooth, Smule, Newsvine, 
-Stupidcancer, Twitter, Tripit, CruiseMate, Wikipedia, Pastebin, Flickr, Blogspot, librarything, 
-Scratch, Iampregnant, ProjectAres, Knowem , Youtube, Xvideo, Linkedin, Buzzfeed, Badoo, Myspace, 
-Producthunt, AdultfirendFinder, Etsy, Darksearch,  Technet.microsoft, Cafemom, Soundcloud, Vidme, Anobii, 
-Vine, Tumblr, Setlist, Slashdot, Psn, Pof, Vk, Weedlife, FriendfindX, Blackplanet, Wechat, 
-MarketingLand, Diigo, Trip, About.me, Xhamster, Googleplus, Fotolog, Untappd, Medium, Diy, 
-Klout, Imageshack, Voat, Plurk, Cardomain, Seoclerks, Xanga, Github, Vampirefreaks, Instagram, 
-Klear, Wordpress, Wattpad, Mybuilder, Twitch, Netvibe, Author stream, Rottentomatoes, Reddit, 
-Cashme, Kongregate,Onionsearchengine, Atlassian, Redtube, Imgur, Viddler, Lanyrd, Periscope, Shopcade, Gravatar, 
-Tf2items, Massroot, Eightbitme, Fiverr, Moddb, Matchdoctor, Photobucket, Videolike, Muckrack,
-Smugmug, Speakerdeck, Voices, Tripadisor, Flipboard, Bitbucket, Instructables, Blogmarks,
-Yelp,Ello,Abou.to,Stream.me,Getsatisfaction,Crokes,Codementor,500px,Houzz,Contently,
-Scribd,Venmo,Canva,Creativemarket,Bandcamp,Wikia,Reverbnation,Mig.me,Designspiration,
-Eyeem,Miiverse,Kano,Smashcast,Newgrounds,Younow,Postagon
-(and more to come) about peoples.
+Osint tool to get results from
+youtube,google,bing,yahoo,britishtelecom,pagesblanches,paginasblancas,
+spravkaru,dastelefonbush,yellowpages,instagram,twitter,youtube,wechat,googleplus,
+linkedin,myspace,flickr,foursquare,photobucket,picturetrail,wayn,dekd,
+pinterest,badoo,torchtorsearch,blogger,tumblr,skype,facebook,tineye,irclogs,darksearch,
+break,colourlover,raptr,bodyspace,freesound,mylot,mixcloud,porn,goodreads,singlemuslim,
+playlist,thegardian,steam,ustream,geekgrade,picturetrail,myfitnesspal,myspace,lastfm,
+ifttt,rateyourmusic,cheezburger,dekd,rapid7,angellist,okcupid,bugcrowd,meetzur,foursquare,delicious,
+peekyoulivejasmine,interpals,mixlr,codeplex,storycorp,ivejournal,eporner,ahmia,audioboom,ask,
+wishlist,foodspotting,sporcle,xboxtag,mate1,vimeo,slideshare,pornhub,funnyordie,wanelo,hubpages,
+onion.linkdeviantart,pinterest,dailymotion,wayn,fanpop,soup,pinkbike,photoblog,blip,smiteguru,
+yippy,internetarchive,snooth,smule,newsvine,stupidcancer,twitter,tripit,cruisemate,wikipedia,
+pastebin,flickr,blogspot,librarything,scratch,iampregnant,projectares,knowem,youtube,xvideo,
+linkedin,buzzfeed,badoo,myspace,producthunt,adultfirendfinder,etsy,darksearch,technet.microsoft,
+cafemom,soundcloud,vidme,anobii,vine,tumblr,setlist,slashdot,psn,pof,vk,weedlife,friendfindx,
+blackplanet,wechat,marketingland,diigo,trip,about.me,xhamster,googleplus,fotolog,untappd,
+medium,diy,klout,imageshack,voat,plurk,cardomain,seoclerks,xanga,github,vampirefreaks,
+instagram,klear,wordpress,wattpad,mybuilder,twitch,netvibe,authorstream,rottentomatoes,
+reddit,cashme,kongregate,onionsearchengine,atlassian,redtube,imgur,viddler,lanyrd,periscope,
+shopcade,gravatar,tf2items,massroot,eightbitme,fiverr,moddb,matchdoctor,photobucket,
+videolike,muckrack,smugmug,speakerdeck,voices,tripadisor,flipboard,bitbucket,instructables,
+blogmarks,yelp,ello,abou.to,stream.me,getsatisfaction,crokes,codementor,500px,houzz,
+contently,scribd,venmo,canva,creativemarket,bandcamp,wikia,reverbnation,mig.me,
+designspiration,eyeem,miiverse,kano,smashcast,newgrounds,younow,postagon,
+ blogdrive,blogger,blogher,blogigo,blogster,blogtalkradio,bloopist,bold,disqus,dreamwidth,
+hatena,insanejournal,intensedebate,issuu,jigsy,livejournal,medium,moonfruit,myblogu,notey,
+pen,postagon,roojoom,sailblogs,soup,thoughts,tumblr,typepad,wallinside,weebly,wordpress,
+bitLy,blogmarks,cloudytags,delicious,designfloat,diigo,folkd,43marks,gimmebar,librarything,
+myhq,mysitevote,netvouz,papaly,pinterest,posteet,segnalo,stumbleupon,symbaloo,trendhunter,
+wanelo,weheartit,wishlistr,wookmark,xerpi,xmarks,activerain,adsoftheworld,angel,apsense,
+authorstream,biggerpockets,bizsugar,coroflot,ebay,edocr,etsy,fool,getsatisfaction,kiva,
+linkedin,profnetconnect,referralkey,ryze,siftery,slack,slideserve,smarterer,snappages,cash,
+stocktwits,storeboard,testq,thisnext,tradingview,trepup,uservoice,venmo,wamda,weblo,
+xmind,yatedo,3tags,academia,blackplanet,blurb,blurtopia,bookcrossing,boonex,cafemom,
+dirtyus,duno,empireavenue,eventful,faceparty,faces,fixya,fluther,fmylife,freelywheely,
+friendsite,goodreads,grassfire,groups,hi5,hubpages,hubski,instructables,kickstarter,
+kiwibox,knowem,lafango,lefora,lifeknot,madwhips,measuredup,migente,minds,myspace,
+nexopia,ning,pinkbike,postcrossing,proboards,qmpeople,realitysandwich,seenlife,
+sitepoint,skyrock,slidepoint,slideshare,sodahead,spruz,sqeeqee,steampowered,stylebistro,
+tagged,tigweb,todaysmeet,toluna,unitedcats,untappd,vk,voat,wireclub,wittyprofiles,xanga,
+yuku,artfire,behance,burdastyle,canva,chairish,chictopia,choozle,colourlovers,creativemarket,
+crokes,designspiration,deviantart,dwell,fancy,hometalk,jimdo,mindmeister,myfolio,
+opendesktop,qbn,society6,wittygraphy,9gag,arcadetrail,becomegorgeous,boxedup,cardomain,
+chess,coolspotters,cracked,crunchyroll,destructoid,ebaumsworld,fanpop,fashionfreax,
+gaiaonline,gamespot,grindtv,icanhascheezburger,ichive,knowyourmeme,koinup,kongregate,
+letterboxd,librarious,linkibl,listal,metacritic,moddb,motortopia,n4g,newgrounds,oobgolf,patreon,
+playerme,pwned,ranker,raptr,redbubble,shockwave,singsnap,snapzu,sportspyder,stage32,storify,
+storybird,stylehive,tickld,trakt,voiceoftv,votable,wattpad,whiskeyconnosr,yardbarker,armchairgm,
+athlinks,bakespace,culinate,dailymile,empowher,families,fatsecret,fitday,healthbubble,keeprecipes,
+leafly,livestrong,menuism,mycyclinglog,myfitnesspal,nibbledish,seriouseats,snooth,sparkpeople,
+steepster,strava,withfit,aboutme,abouto,allmyfaves,answers,appearoo,arrisweb,askfm,bloglovin,
+calendly,citeulike,dojoess,duolingo,edmodo,flavorsme,flightaware,flipboard,freebase,gravatar,
+growthhackers,huffduffer,ifttt,itsmyurls,khanacademy,listgeeks,listography,mouthshut,netvibes,
+nouncy,pressfolios,qhub,quora,rrrather,scribd,shortfiction,Storeboard,studypool,tacked,thatisme,
+trello,visualcv,webs,wikia,wikihow,wikipedia,workface,zotero,alternion,audioboo,ello,foodspotting,
+foursquare,kiwi,littlelogs,mastodon,onsugar,plinky,plurk,posteezy,qooh,twitter,wadja,yoolink,
+zedge,8tracks,allihoopa,audioboom,bandcamp,bandmix,bandsintown,blipfm,castroller,
+concertwindow,datpiff,genius,hypem,jambase,lastfm,mixcloud,pitchmystuff,propellerheads,
+purevolume,reverbnation,seatwish,songkick,spreaker,stereogum,thesixtyone,ultimateguitar,
+youlicense,buzzfeed,ezyspot,fark,gawker,muckrack,myalltop,newsmeback,newsmix,newsvine,
+openzine,popsugar,pusha,reddit,sportlobster,sportsrants,theartifice,thiscm,topix,upvoat,valme,
+whuut,wikidot,wirefan,wunderground,23hq,500px,blipfoto,clipartme,dreamstime,expono,flickr,
+fotki,fotobabble,fotochatter,fotolog,fotothing,freepik,gfycat,giphy,imageshack,imgfave,imgur,
+instagram,jalbum,mobypicture,morguefile,photobucket,photodune,photopeach,piccsy,picturepush,
+picturesocial,picturetrail,pixabay,postimg,purephoto,purestorm,photoshow,shutterstock,smugmug,
+snaphotmobi,tabulas,thefancy,topy,twitxr,zenfolio,alternativeto,betanews,bitbucket,cnet,codecademy,
+codementor,coderwall,creativelive,curious,customize,cybrhome,datacamp,dataworld,degreed,dribbble,
+duxter,element14,f6s,github,hackaday,hackerrank,hackster,ipernity,keybase,mytechlogy,pastebin,
+playfire,republic,scrim,silk,sketchfab,skillshare,slashdot,snipplr,sourceforge,startupwings,techdirt,
+techsupportalert,toolbox,tracky,teamtreehouse,bewelcome,buffalo,exploroo,fodors,gapyear,gogobot,
+lonelyplanet,lovento,roadtrippers,touristlink,travbuddy,travelblog,travellerspoint,travelpod,tripadvisor,
+bambuser,break,clipmoon,coub,dailymotion,expotv,funnyordie,godtube,houzz,kaotic,liveleak,
+metacafe,ovguide,periscope,photosynth,stream,tout,twitch,veoh,videobash,videojug,videosift,
+vidme,vimeo,wonderhowto,(and more to come) about peoples.
 
 1. No Smeging Api key required.
 
@@ -57,7 +107,7 @@ Search  all regions in France for family name ,adresses,phone numbers.
 12. Search german's city specified by user for family name ,adresses,phone numbers.
  Search all cities in Germany for family name ,adresses,phone numbers. 
  
-13. Search social network relations with or without email provided or found or guessed. (189 websites)
+13. Search social network relations with or without email provided or found or guessed. (509 websites)
 
 14. (Search emailbiz.info if lastname provided or alias then ) Generate all possible combinations of mails adresses from first and last name or alias then check if they exist . If they exist , search for social network relations .
  
@@ -199,6 +249,7 @@ Or with arguments:
 	 -tocsv Previous-results.csv
 	   
 ###To do list:
+- Learn python
 - Rewrite all this shit
 - Create Gui interface
 - add other ppl search engine to social()
