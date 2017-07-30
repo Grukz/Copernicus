@@ -108,7 +108,6 @@ Search  all regions in France for family name ,adresses,phone numbers.
  Search all cities in Germany for family name ,adresses,phone numbers. 
  
 13. Search social network relations with or without email provided or found or guessed. (509 websites)
-	(knowem.com results are marked as unverified still in beta )
 
 14. (Search emailbiz.info if lastname provided or alias then ) Generate all possible combinations of mails adresses from first and last name or alias then check if they exist . If they exist , search for social network relations .
  
@@ -254,13 +253,12 @@ Or with arguments:
 - Rewrite all this shit
 - Create Gui interface
 - add other ppl search engine to social()
-- Embed or use some part of https://github.com/eth0izzle/the-endorser
+- ~~Embed or use some part of https://github.com/eth0izzle/the-endorser~~(Deleted)
 - Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
 - Improve pictures comparison
 - Get metadata from pictures
-- Add Google image search
-- Upload downloaded picture to tineye instead of giving url
-- Check Fucking result from knowem.com (full of shit)
+- Add Google image search and other search by image engine.
+- ~~Check Fucking result from knowem.com (full of shit)~~
 - ~~add www.yippy.com to deepdarkweb()~~
 - ~~add http://www.emailbiz.info/ to guessmail()~~
 - ~~replace Darksearch.com and add more onion search engine~~
