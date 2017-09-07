@@ -259,6 +259,7 @@ Or with arguments:
 - Improve pictures comparison
 - Get metadata from pictures
 - Add Google image search and other search by image engine.
+- Fix unicode problems.
 - ~~Check Fucking result from knowem.com (full of shit)~~
 - ~~add www.yippy.com to deepdarkweb()~~
 - ~~add http://www.emailbiz.info/ to guessmail()~~

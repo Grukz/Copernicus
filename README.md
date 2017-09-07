@@ -253,11 +253,13 @@ Or with arguments:
 - Rewrite all this shit
 - Create Gui interface
 - add other ppl search engine to social()
+- add another method to find user if not found in social()
 - ~~Embed or use some part of https://github.com/eth0izzle/the-endorser~~(Deleted)
 - Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
 - Improve pictures comparison
 - Get metadata from pictures
 - Add Google image search and other search by image engine.
+- Fix unicode problems.
 - ~~Check Fucking result from knowem.com (full of shit)~~
 - ~~add www.yippy.com to deepdarkweb()~~
 - ~~add http://www.emailbiz.info/ to guessmail()~~
