@@ -257,10 +257,10 @@ Or with arguments:
 - Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
 - Improve pictures comparison
 - Get metadata from pictures
-- Add Google image search and other search by image engine.
 - Fix unicode problems.
 - Add Yandex to search engine.
 - let users decide what picture are going to be use with sbi.
+- ~~Add Google image search and other search by image engine.~~
 - ~~Embed or use some part of https://github.com/eth0izzle/the-endorser~~(Deleted by owner)
 - ~~Check Fucking result from knowem.com (full of shit)~~
 - ~~add www.yippy.com to deepdarkweb()~~

@@ -122,7 +122,7 @@ Results from darksearch.com ,peekyou.com, onion.link , yippy.com ,ahmia.fi ,onio
 18. Search in Irc logs from various servers .
         (https://botbot.me/ http://tunes.org/ http://irc.slitaz.org/ http://logs.glob.uno/ https://krijnhoetmer.nl/irc-logs/ https://indieweb.org/irc/ http://eavesdrop.openstack.org/irclogs/ http://irclog.whitequark.org/ http://chat.alfresco.com/ http://ircbrowse.net http://www.wcnews.com/logs/ http://logs.nslu2-linux.org/livelogs http://irclogs.shortcircuit.net.au/ http://irclogs.ceph.widodh.nl/ https://fluidtypo3.org/community/ https://www.tryton.org/~irclog/ http://rbach.priv.at/Microformats/IRC/ https://log.bezut.info/ http://sbnc.khobbits.co.uk/log/logs/ https://irclogs.baserock.org/ http://carrier.6irc.net/metachan/ https://irclogs.ubuntu.com/ https://www.spi-inc.org/meetings/logs/ https://www.olimex.com/irc? https://irc.cakephp.org/ http://freecadlog.archivist.info/ https://irclogs.jackgrigg.com/ http://irc.koha-community.org/koha/ http://www.merproject.org/logs/ http://www.alwaysinnovating.com/irclog/ https://ghostscript.com/irclogs/ https://badcheese.com/~steve/atlogs/ http://c4evaspeaks.com https://irclog.perlgeek.de/ http://old.geotools.org http://riesvantwisk.com/home/irc-logs/ http://blockstack.slackarchive.io/ http://chat-logs.dcpython.org/ https://irclogs.deepin.io/deepin http://logs.collectionspace.org/ http://irc.minetest.ru/ https://irc.dokuwiki.org/ https://silverstripe.logged.nz/ http://tech.lds.org/irc/ http://globalqss.com/idempiere/irclog/ http://dig.csail.mit.edu/irc/dig/ http://www.webplatform.org/talk/chatlogs/ http://ilbot2.kohaaloha.com/koha/)
  
-19. Compare avatars from Facebook ,Skype and the 10 first pictures from Google,Bing and Yahoo with Tineye database .
+19. Compare avatars from Facebook ,Skype and the 10 first pictures from Google,Bing and Yahoo with Tineye , Google, Yandex Reverse Image database .
  
 20. Then make a graph in neo4j or csv file.
 
@@ -257,10 +257,10 @@ Or with arguments:
 - Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
 - Improve pictures comparison
 - Get metadata from pictures
-- Add Google image search and other search by image engine.
 - Fix unicode problems.
 - Add Yandex to search engine.
 - let users decide what picture are going to be use with sbi.
+- ~~Add Google image search and other search by image engine.~~
 - ~~Embed or use some part of https://github.com/eth0izzle/the-endorser~~(Deleted by owner)
 - ~~Check Fucking result from knowem.com (full of shit)~~
 - ~~add www.yippy.com to deepdarkweb()~~
