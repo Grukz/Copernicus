@@ -130,6 +130,46 @@ Results from darksearch.com ,peekyou.com, onion.link , yippy.com ,ahmia.fi ,onio
 
 ![ ](https://img4.hostingpics.net/pics/679611Capturedcrande20170628043121.png  "Title")
 
+![No arg](https://img11.hostingpics.net/pics/998757menus.png  "No arg")
+
+![Darsearch1](https://img11.hostingpics.net/pics/974710darksearch1.png  "Darsearch1")
+
+![Darsearch2](https://img11.hostingpics.net/pics/176049darksearch2.png  "Darsearch2")
+
+![Peekyou1](https://img11.hostingpics.net/pics/170524PIckyou1.png  "Peekyou1")
+
+![Peekyou2](https://img11.hostingpics.net/pics/233575PIckyou2.png  "Peekyou2")
+
+![Yippy1](https://img11.hostingpics.net/pics/331844Yippy1.png  "Yippy1")
+
+![Yippy2](https://img11.hostingpics.net/pics/205515Yippy2.png  "Yippy2")
+
+![OnionSearchEngine1](https://img11.hostingpics.net/pics/181504OnionsearchEngine1.png  "OnionSearchEngine1")
+
+![OnionSearchEngine2](https://img11.hostingpics.net/pics/312980OnionsearchEngine2.png  "OnionSearchEngine2")
+
+![Torch1](https://img11.hostingpics.net/pics/855493Torsearch1.png  "Torch1")
+
+![Torch2](https://img11.hostingpics.net/pics/127820Torsearch2.png  "Torch2")
+
+![Skype1](https://img11.hostingpics.net/pics/613852skype.png  "Skype1")
+
+![Skype2](https://img11.hostingpics.net/pics/636052skype2.png  "Skype2")
+
+![Facebook1](https://img11.hostingpics.net/pics/403844Facebook.png  "Facebook1")
+
+![Emailbiz1](https://img11.hostingpics.net/pics/729208Emailbiz1.png  "Emailbiz1")
+
+![Emailbiz2](https://img11.hostingpics.net/pics/490094Emailbiz2.png  "Emailbiz2")
+
+![Testmail](https://img11.hostingpics.net/pics/809941testmail.png  "Testmail")
+
+![Social1](https://img11.hostingpics.net/pics/740608Knowem.png  "Social1")
+
+![Social2](https://img11.hostingpics.net/pics/470363Knowem2.png  "Social2")
+
+![Social3](https://img11.hostingpics.net/pics/724035social2.png  "Social3")
+
 ![ ](http://img11.hostingpics.net/pics/139823resc.png  "search engine")
 
 
@@ -260,8 +300,10 @@ Or with arguments:
 - Fix unicode problems.
 - Add Yandex to search engine.
 - let users decide what picture are going to be use with sbi.
+- Fix that fucking testmail validating username without @provider.com
+- fix Facebook module not saving results sometimes
 - ~~Add Google image search and other search by image engine.~~
-- ~~Embed or use some part of https://github.com/eth0izzle/the-endorser~~(Deleted by owner)
+- ~~Embed or use some part of https://github.com/eth0izzle/the-endorser(Deleted by owner)~~
 - ~~Check Fucking result from knowem.com (full of shit)~~
 - ~~add www.yippy.com to deepdarkweb()~~
 - ~~add http://www.emailbiz.info/ to guessmail()~~
