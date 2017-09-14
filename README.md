@@ -115,6 +115,7 @@ Search  all regions in France for family name ,adresses,phone numbers.
 15. Search in Skype Directory (can use results to guess emails)
  
 16. Search in Facebook Directory  (can use results to guess emails)
+	**Not working Anymore Facebook changed need to update module**
 
 17. Search in Deepweb and Onion search engine 
 Results from darksearch.com ,peekyou.com, onion.link , yippy.com ,ahmia.fi ,onionsearchengine.com , torchtorsearch.com
@@ -175,6 +176,9 @@ Results from darksearch.com ,peekyou.com, onion.link , yippy.com ,ahmia.fi ,onio
 
 ![ ](https://s24.postimg.org/3y8y56wcl/piximg.jpg  "gimg")
 
+![IrcSearch](https://img11.hostingpics.net/pics/707973ircsearch.png  "IrcSearch")
+
+![Image Reverse](https://img11.hostingpics.net/pics/902736Sbi.png  "Image Reverse")
 
 ![ ](http://img11.hostingpics.net/pics/384186Captcha.png  "yellowpages captcha bypass")
 
@@ -295,13 +299,13 @@ Or with arguments:
 - add other ppl search engine to social()
 - add another method to find user if not found in social()
 - Embed or use some part of https://github.com/joren485/Facebook-Location-OSINT
-- Improve pictures comparison
 - Get metadata from pictures
-- Fix unicode problems.
-- Add Yandex to search engine.
 - let users decide what picture are going to be use with sbi.
 - Fix that fucking testmail validating username without @provider.com
-- fix Facebook module not saving results sometimes
+- fix Facebook module (wtf Zack !? Look what uv done!)
+- ~~Fix unicode problems.~~
+- ~~Add Yandex Reverse Image to search engine.~~
+- ~~Improve pictures comparison~~
 - ~~Add Google image search and other search by image engine.~~
 - ~~Embed or use some part of https://github.com/eth0izzle/the-endorser(Deleted by owner)~~
 - ~~Check Fucking result from knowem.com (full of shit)~~
