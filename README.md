@@ -303,6 +303,7 @@ Or with arguments:
 - let users decide what picture are going to be use with sbi.
 - Fix that fucking testmail validating username without @provider.com
 - fix Facebook module (wtf Zack !? Look what uv done!)
+- Find another way to get result from PagesBlanches if Error 403.
 - ~~Fix unicode problems.~~
 - ~~Add Yandex Reverse Image to search engine.~~
 - ~~Improve pictures comparison~~
