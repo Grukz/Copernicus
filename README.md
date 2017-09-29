@@ -111,11 +111,9 @@ Search  all regions in France for family name ,adresses,phone numbers.
 
 14. (Search emailbiz.info if lastname provided or alias then ) Generate all possible combinations of mails adresses from first and last name or alias then check if they exist . If they exist , search for social network relations .
  
-
 15. Search in Skype Directory (can use results to guess emails)
  
 16. Search in Facebook Directory  (can use results to guess emails)
-	**Not working Anymore Facebook changed need to update module**
 
 17. Search in Deepweb and Onion search engine 
 Results from darksearch.com ,peekyou.com, onion.link , yippy.com ,ahmia.fi ,onionsearchengine.com , torchtorsearch.com
@@ -302,8 +300,9 @@ Or with arguments:
 - Get metadata from pictures
 - let users decide what picture are going to be use with sbi.
 - Fix that fucking testmail validating username without @provider.com
-- fix Facebook module (wtf Zack !? Look what uv done!)
+- Let Selenium download avatars as it is searching facebook directory
 - Find another way to get result from PagesBlanches if Error 403.
+- ~~fix Facebook module (wtf Zack !? Look what uv done!)~~
 - ~~Fix unicode problems.~~
 - ~~Add Yandex Reverse Image to search engine.~~
 - ~~Improve pictures comparison~~
