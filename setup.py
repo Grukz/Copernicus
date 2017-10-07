@@ -8,7 +8,7 @@ setup(
 
     name='copernicus',
 
-    version = '2.0.5',
+    version = '2.0.6',
 
     packages=find_packages(),
     author="Soroboruo",
