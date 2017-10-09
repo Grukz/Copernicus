@@ -1,4 +1,0 @@
-recursive-include Copernicus *
-include README.md
-include MANIFEST.in
-include setup.py
